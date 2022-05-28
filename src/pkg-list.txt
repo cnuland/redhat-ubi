@@ -10,3 +10,6 @@ curl
 jq
 openssl
 openssh-clients
+rsync
+nmap
+rclone
