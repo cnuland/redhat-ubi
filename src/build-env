@@ -1,7 +1,6 @@
-BUILD_ORG_ID=1234567
-BUILD_ACT_KEY=activationkey
-BUILD_NAME=image-name
-BUILD_TAG=8.3
-BUILD_REPO=docker.io/sample,quay.io/sample
+BUILD_ACT_KEY=8a85f99c7ed94239017f8e45e6d51971
+BUILD_NAME=myubi
+BUILD_TAG=8
+BUILD_REPO=quay.io/cnuland
 BUILD_LATEST=True
 PUSH_IMAGE=True
