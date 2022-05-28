@@ -1,9 +1,9 @@
 ARG TAG=latest
 FROM registry.access.redhat.com/ubi8/ubi:$TAG
 
-LABEL maintainer="kgfathur" \
+LABEL maintainer="cnuland" \
       name="rhubi" \
-      version="8.3" \
+      version="8.x" \
       description="Red Hat Universal Base Image 8 with some additional package" \
       Copyright="Red Hat Universal Base Image 8 (c) Red Hat, Inc." \
       License="GPLv3"
