@@ -2,7 +2,6 @@ procps-ng
 iputils
 iproute
 ethtool
-telnet
 diffutils
 bind-utils
 wget
@@ -12,4 +11,3 @@ openssl
 openssh-clients
 rsync
 nmap
-rclone
